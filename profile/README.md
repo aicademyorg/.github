@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;
 [<img src="img/youtube1.png" alt="YouTube" width="33">](https://www.youtube.com/@Open_DeepLearning)
 &nbsp;&nbsp;&nbsp;
-[<img src="img/email.png" alt="Email" width="28">](mailto:teamopendeeplearning@gmail.com)
+[<img src="img/email.png" alt="Email" width="30">](mailto:teamopendeeplearning@gmail.com)
 &nbsp;&nbsp;&nbsp;
 
 </div>
