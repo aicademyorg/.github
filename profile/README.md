@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;
 [<img src="img/twitter.png" alt="Twitter" width="30">](https://twitter.com/Open_DL_AI)
 &nbsp;&nbsp;&nbsp;
-[<img src="img/reddit.png" alt="Reddit" width="27">](https://www.reddit.com/r/opendeeplearning/)
+[<img src="img/reddit.png" alt="Reddit" width="26">](https://www.reddit.com/r/opendeeplearning/)
 &nbsp;&nbsp;&nbsp;
 [<img src="img/instagram.png" alt="Instagram" width="27">](https://www.instagram.com/opendeeplearning/)
 &nbsp;&nbsp;&nbsp;
