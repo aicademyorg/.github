@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;
 [<img src="img/hugging-face.png" alt="Hugging Face" width="31">](https://huggingface.co/OpenDeepLearning)
 &nbsp;&nbsp;&nbsp;
-[<img src="img/youtube.png" alt="YouTube" width="33.5">](https://www.youtube.com/@Open_DeepLearning)
+[<img src="img/youtube.png" alt="YouTube" width="32">](https://www.youtube.com/@Open_DeepLearning)
 &nbsp;&nbsp;&nbsp;
 [<img src="img/email.png" alt="Email" width="31">](mailto:teamopendeeplearning@gmail.com)
 &nbsp;&nbsp;&nbsp;
