@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;
 [<img src="img/github.png" alt="GitHub" width="32">](https://github.com/open-deeplearning)
 &nbsp;&nbsp;&nbsp;
-[<img src="img/hugging-face.png" alt="Hugging Face" width="32">](https://huggingface.co/OpenDeepLearning)
+[<img src="img/hugging-face.png" alt="Hugging Face" width="33">](https://huggingface.co/OpenDeepLearning)
 &nbsp;&nbsp;&nbsp;
 [<img src="img/youtube.png" alt="YouTube" width="32">](https://www.youtube.com/@Open_DeepLearning)
 &nbsp;&nbsp;&nbsp;
