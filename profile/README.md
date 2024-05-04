@@ -4,21 +4,21 @@
 
 <div align="center">
 
-[<img src="img/discord1.png" alt="Discord" width="32">](https://discord.com/invite/GbQAwerJ)
+[<img src="img/discord.png" alt="Discord" width="32">](https://discord.com/invite/GbQAwerJ)
 &nbsp;&nbsp;&nbsp;
 [<img src="img/twitter.png" alt="Twitter" width="30">](https://twitter.com/Open_DL_AI)
 &nbsp;&nbsp;&nbsp;
-[<img src="img/reddit1.png" alt="Reddit" width="28">](https://www.reddit.com/r/opendeeplearning/)
+[<img src="img/reddit.png" alt="Reddit" width="28">](https://www.reddit.com/r/opendeeplearning/)
 &nbsp;&nbsp;&nbsp;
-[<img src="img/instagram1.png" alt="Instagram" width="27">](https://www.instagram.com/opendeeplearning/)
+[<img src="img/instagram.png" alt="Instagram" width="27">](https://www.instagram.com/opendeeplearning/)
 &nbsp;&nbsp;&nbsp;
-[<img src="img/linkedin1.png" alt="LinkedIn" width="31">](https://www.linkedin.com/company/opendeeplearning)
+[<img src="img/linkedin.png" alt="LinkedIn" width="31">](https://www.linkedin.com/company/opendeeplearning)
 &nbsp;&nbsp;&nbsp;
 [<img src="img/github.png" alt="GitHub" width="32">](https://github.com/open-deeplearning)
 &nbsp;&nbsp;&nbsp;
-[<img src="img/hf1.png" alt="Hugging Face" width="31">](https://huggingface.co/OpenDeepLearning)
+[<img src="img/hugging-face.png" alt="Hugging Face" width="31">](https://huggingface.co/OpenDeepLearning)
 &nbsp;&nbsp;&nbsp;
-[<img src="img/youtube1.png" alt="YouTube" width="33.5">](https://www.youtube.com/@Open_DeepLearning)
+[<img src="img/youtube.png" alt="YouTube" width="33.5">](https://www.youtube.com/@Open_DeepLearning)
 &nbsp;&nbsp;&nbsp;
 [<img src="img/email.png" alt="Email" width="31">](mailto:teamopendeeplearning@gmail.com)
 &nbsp;&nbsp;&nbsp;
