@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img src="img/discord.png" alt="Discord" width="32">](https://discord.com/invite/GbQAwerJ)
+[<img src="img/discord.png" alt="Discord" width="32">](https://discord.com/invite/bxnwugmNZg)
 &nbsp;&nbsp;&nbsp;
 [<img src="img/twitter.png" alt="Twitter" width="30">](https://twitter.com/Open_DL_AI)
 &nbsp;&nbsp;&nbsp;
