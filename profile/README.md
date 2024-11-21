@@ -10,6 +10,4 @@
 </picture>
 </a>
 
-[OpenDeepLearning](https://www.opendeeplearning.xyz/) is an open-source community dedicated to making AI education accessible to everyone.
-
-We provide free learning resources, courses, and tools to help anyone learn AI, whether you're a beginner or more experienced.
+[OpenDeepLearning](https://www.opendeeplearning.xyz/) is an open-source community committed to making AI education accessible to everyone. We provide free, high-quality resources, courses, and tools to support learners at all levels, from beginners to experts.
