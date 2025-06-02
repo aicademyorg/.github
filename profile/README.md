@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://aicademyorg.netlify.app/">
-    <img src="/profile/logo.png" width="90px" height="90px" />
+    <img src="/profile/logo.png" width="200px" height="50px" />
   </a>
 </p>
-<h1 align="center">AIcademy</h1>
-<p align="center">AIcademy is a friendly community focused on making AI education accessible to everyone for free.</p>
+<p align="center">AIcademy is a friendly community focused on making AI education accessible to all for free.</p>
