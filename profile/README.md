@@ -4,3 +4,4 @@
   </a>
 </p>
 <p align="center">AIcademy is a friendly community focused on making AI education accessible to all for free.</p>
+<p align="center">Join our <a href="https://discord.com/invite/bxnwugmNZg">discord server</a> and start learning with others!</p>
