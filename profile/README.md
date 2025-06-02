@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://aicademyorg.netlify.app/">
-    <img src="/profile/logo.png" width="80px" height="80px" />
+    <img src="/profile/logo.png" width="90px" height="90px" />
   </a>
 </p>
 <h1 align="center">AIcademy</h1>
